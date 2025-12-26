@@ -4,7 +4,7 @@
 ---
 
 # [**Profissão: Cientista de Dados**](https://github.com/WilmaDarc/volta-zero-)
-### [**Módulo 31** | Streamlit V](https://github.com/WilmaDarc/volta-zero-/tree/main/Streamlit%20V) 
+### [**Módulo 31** | Streamlit V Exercício 1](https://github.com/WilmaDarc/volta-zero-/tree/main/Streamlit%20V) 
 
 **Por:**[Wilma Darc Alves de Farias](www.linkedin.com/in/wilma-farias-66a15962)<br>
 **Data**: 25 de dezembro de 2025.
