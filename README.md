@@ -18,7 +18,9 @@ Segmentação de clientes utilizando o RFV (Recência, Frequência e Valor)
 #### Link para a aplicação
 https://segmentacao-de-clientes-utilizando-o-rfv.onrender.com
 
-![Render Button](./render-button.png)
+[![Render Button](render-button.png)](https://segmentacao-de-clientes-utilizando-o-rfv.onrender.com)
+
+
 ---
 
 #### [Requisitos](https://github.com/WilmaDarc/Segmentacao-clientes--RFV-/requirements.txt)
