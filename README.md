@@ -15,7 +15,7 @@
 #### **Descrição:**
 Segmentação de clientes utilizando o RFV (Recência, Frequência e Valor)
 
-#### Link para a aplicação
+#### Link para a aplicação(Deploy do modelo/streamlit)
 https://segmentacao-de-clientes-utilizando-o-rfv.onrender.com
 
 [![Render Button](render-button.png)](https://segmentacao-de-clientes-utilizando-o-rfv.onrender.com)
